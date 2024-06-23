@@ -1,6 +1,8 @@
 
 <img width="424" alt="Screenshot 2024-01-07 070125" src="https://github.com/dzikrimaulana87/Console-coffeshop/assets/45265319/748d2168-e08c-4731-8ad4-02ef09a5dd5e">
+
 # Program Toko Kopi Konsol
+
 
 Ini adalah program sederhana berbasis konsol yang ditulis dalam bahasa C++. Program ini memungkinkan pelanggan untuk melihat menu, memilih kopi, dan menghasilkan struk dengan total belanja, termasuk diskon dan pajak.
 
